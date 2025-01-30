@@ -13,7 +13,7 @@
 - 🚀 Working towards starting my own **cybersecurity firm**  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Your_LinkedIn_URL](https://www.linkedin.com/in/jujhar-singh-4270b9294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)]([Your_LinkedIn_URL](https://www.linkedin.com/in/jujhar-singh-4270b9294))  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/jujharsingh)  
 
 ---
