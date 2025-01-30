@@ -1,16 +1,20 @@
-## Hi there 👋
+### 🚀 Jujhar Singh | Full Stack Developer | Cybersecurity Enthusiast  
 
-<!--
-**Jujhar28/Jujhar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm **Jujhar Singh**, a **B.Tech CSE (Cybersecurity) student** passionate about coding, ethical hacking, and building awesome digital experiences.  
 
-Here are some ideas to get you started:
+## 🔥 About Me  
+- 💻 **Full Stack Developer** | Certified by WhiteHat Jr.  
+- 🔐 **Cybersecurity Enthusiast** | Future Ethical Hacker  
+- 🎮 **Game Developer** | Love creating interactive experiences  
+- 🛠️ **Freelancer** | Web & Software Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently  
+- 📌 Learning **C programming** (60-day challenge)  
+- 🚀 Working towards starting my own **cybersecurity firm**  
+
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](Your_LinkedIn_URL)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/jujharsingh)  
+
+---
+✨ *"Building tech, breaking vulnerabilities!"*
